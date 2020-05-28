@@ -92,3 +92,4 @@ La cabecera o HEAD representan la rama y el commit de esa rama donde estamos tra
 este contenido será agregado en una nueva rama
 
 Estos cambios cambian en master cambio 1
+Estos cambios cambian en master cambio 2
