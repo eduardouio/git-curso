@@ -92,3 +92,5 @@ La cabecera o HEAD representan la rama y el commit de esa rama donde estamos tra
 este contenido será agregado en una nueva rama
 
 ESTE TEXTO SE HA CREADO EN UNA RAMA DEL PROYECTO
+
+Este es un texto adicional
