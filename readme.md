@@ -90,3 +90,5 @@ Las ramas son la forma de hacer cambios en nuestro proyecto sin afectar el flujo
 La cabecera o HEAD representan la rama y el commit de esa rama donde estamos trabajando. Por defecto, esta cabecera aparecerá en el último commit de nuestra rama principal. Pero podemos cambiarlo al crear una rama (git branch rama, git checkout -b rama) o movernos en el tiempo a cualquier otro commit de cualquier otra rama con los comandos (git reset id-commit, git checkout rama-o-id-commit).
 
 este contenido será agregado en una nueva rama
+
+Estos cambios cambian en master cambio 1
