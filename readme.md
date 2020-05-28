@@ -98,3 +98,5 @@ ESTE TEXTO SE HA CREADO EN UNA RAMA DEL PROYECTO
 Este es un texto adicional
 
 cambiamos esta linea es master
+Genial estamos aprendiendo a convinar ramas 1
+Genial estamos aprendiendo a convinar ramas 2
